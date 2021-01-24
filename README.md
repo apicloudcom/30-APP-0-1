@@ -48,6 +48,17 @@ APICloud7天培训课是采用视频直播的方式讲解，讲师在现场一�
 
 https://github.com/apicloudcom/30-APP-0-1
 
+### 案例项目已经升级到 APICloud 3.x 的 AVM  版本
+<span id="avm"></span>
+APICloud已经推出3.x版本,使用 avm.js 多端技术开发，可同时编译为Android & iOS App以及微信小程序。
+本教程提及的项目已经进行升级。详细了解请进入仓库：[fresh-ec](https://github.com/apicloudcom/fresh-ec)
+
+` 源码地址 ` https://github.com/apicloudcom/fresh-ec
+
+了解多端技术 avm.js 请进入：[https://docs.apicloud.com/apicloud3/](https://docs.apicloud.com/apicloud3/?uzchannel=30)
+
+更多多端案例请进入: https://github.com/apicloudcom/mx-app-templates
+
 ### 开发环境
 APICloud一直坚持多开发工具支持策略，开发者可以使用任意一款自己喜欢的主流编码工具开发APICloud App，只需要在这些工具中安装相应的APICloud插件就可以了，目前APICloud支持的开发工具包括：Atom、Sublime Text、Eclipse、WebStorm、VSCode等。本书通篇使用APICloud Studio 2作为开发工具，APICloud Studio 2是一款基于Atom进行扩展的全功能集成开发工具。读者可以阅读附录2来了解这款工具的详细使用。
 
