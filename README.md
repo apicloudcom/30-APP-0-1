@@ -50,7 +50,7 @@ https://github.com/apicloudcom/30-APP-0-1
 
 ### 案例项目已经升级到 APICloud 3.x 的 AVM  版本
 <span id="avm"></span>
-APICloud已经推出3.x版本,使用 avm.js 多端技术开发，可同时编译为Android & iOS App以及微信小程序。
+APICloud已经推出3.x版本。使用 avm.js 多端技术开发，可同时编译为Android & iOS App以及微信小程序。
 本教程提及的项目已经进行升级。详细了解请进入仓库：[fresh-ec](https://github.com/apicloudcom/fresh-ec)
 
 ` 源码地址 ` https://github.com/apicloudcom/fresh-ec
